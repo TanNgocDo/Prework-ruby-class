@@ -1,28 +1,6 @@
-== README
+Test For Prework or ruby class:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![alt tag](https://cloud.githubusercontent.com/assets/8816061/11164475/18da74fc-8b24-11e5-99b1-27bad6ea03a3.gif)
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Estimate time: 2.5-3h (ignore the time of waiting for downloading :d)
